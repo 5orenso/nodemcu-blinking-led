@@ -8,6 +8,9 @@
 $ pio run -e nodemcuv2 -t upload && pio serialports monitor -b 115200
 ```
 
+![Connection sketch](img/fritzing.jpg)
+
+
 Weee :-)
 
 
